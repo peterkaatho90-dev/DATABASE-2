@@ -1,0 +1,2 @@
+ALTER USER 'bob'@'localhost'
+IDENTIFIED BY 'P$55!23';

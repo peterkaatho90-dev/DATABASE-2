@@ -1,0 +1,2 @@
+CREATE USER 'bob'@'localhost'
+IDENTIFIED BY 'S$cu3r3!';
